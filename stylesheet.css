@@ -12,7 +12,7 @@ body{
         background-position: center;
         background-size: cover;
     }
-    .frame{ text-align: center;}
+    .frame{ text-align: center;opacity:0.6;}
      .image-center{
     text-align:center;
 }
