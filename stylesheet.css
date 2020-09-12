@@ -1,9 +1,11 @@
-/*body{
-    background-image: url("afrik.jpg");
-    height: 200px;
+body{
+    background-image: url("images\ \(4\).jpg");
+    background-repeat: no-repeat;
+    /*height: 200px;
      background-repeat: repeat;
      background-position: center;
-    }*/
+   
+    }
     .premier{
         background-image: url("images\ \(4\).jpg");
         background-repeat: no-repeat;
