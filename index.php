@@ -99,7 +99,7 @@
             <label for="exampleFormControlTextarea1"></label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="2" placeholder="Message"></textarea>
           </div>
-        <p>  <button type="submit" class="btn btn-secondary btn-lg btn-block" >contacter moi</button></p></div>
+          <button type="submit" class="btn btn-secondary btn-lg btn-block" >contacter moi</button>
     </form>
 </div>
 </div>
