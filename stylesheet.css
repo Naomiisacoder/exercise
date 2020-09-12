@@ -38,8 +38,8 @@ p{text-align: center;}
 
 .autre{ border-bottom: 4px lightgray ;
 }
-h3{text-decoration: underline;
+h3{text-decoration: underline;color:white;
 font-family:cursive;
-font-style:italic;font-color:white;}
+font-style:italic;}
 .autre{margin: 5px;}
 .premier{color: white;}
