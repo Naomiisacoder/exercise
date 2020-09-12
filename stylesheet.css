@@ -1,6 +1,8 @@
 body{
     background-image: url("images\ \(4\).jpg");
     background-repeat: no-repeat;
+     background-size: cover;
+    
     /*height: 200px;
      background-repeat: repeat;
      background-position: center;
