@@ -9,10 +9,10 @@ body{
    */
     }
     .premier{
-        background-image: url("images\ \(4\).jpg");
+       /* background-image: url("images\ \(4\).jpg");
         background-repeat: no-repeat;
         background-position: center;
-        background-size: cover;
+        background-size: cover;*/
     }
     .frame{ text-align: center;opacity:0.9;}
      .image-center{
