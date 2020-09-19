@@ -1,0 +1,35 @@
+body{
+   
+    height: 200px;
+     background-repeat: repeat;
+     background-position: center;
+    }
+    .frame{background-color:grey; opacity: 0.9;}
+.image-center{
+    text-align:center;
+}
+.image{
+    width:500px;
+    height:200px;
+    border-radius: 100%;
+    
+}
+.nom{
+    text-align: center;font-weight:bold;
+}
+.description{
+    text-align: center;
+}
+p{text-align: center;}
+.what{text-align: right;}
+
+.icon{height: 30px;}
+
+.autre{ border-bottom: 4px lightgray ;
+}
+h3{text-decoration: underline;}
+h4{text-align:center;}
+.autre{margin: 5px;}
+.card-deck{margin-bottom: 20px;}
+.set{background color:grey;border:5px solid black;}
+.click{background-color:blue;border-radius:5%;text-align:center;font-size:30px;}
