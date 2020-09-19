@@ -31,5 +31,5 @@ h3{text-decoration: underline;}
 h4{text-align:center;}
 .autre{margin: 5px;}
 .card-deck{margin-bottom: 20px;}
-.set{background color:grey;border:5px solid black;}
+.set{background color:grey;border:5px solid black;position:justify;}
 .click{background-color:blue;border-radius:5%;text-align:center;font-size:30px;}
